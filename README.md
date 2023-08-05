@@ -33,7 +33,6 @@ Developed sample projects for practice of core java
 - Add money to account
 - Withdraw money from account
 - Interest calculator
--
 
 # Netflix Project
 - Create a new Account
