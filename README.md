@@ -20,3 +20,24 @@ the basic concepts of java programming language are:
 - The framework that provides various data structures and algorithms to store and manipulate a group of objects in java.
 - **Multithreading**:
 -  The feature that allows a program to execute multiple tasks concurrently using threads.
+
+
+
+# JavaMiniProjects
+
+Developed sample projects for practice of core java
+
+# Bank Project
+- Method to create new account
+- Delete existing account
+- Add money to account
+- Withdraw money from account
+- Interest calculator
+-
+
+# Netflix Project
+- Create a new Account
+- Add Movies to DataBase
+- Update movie details
+- Delete Movie from Database
+- Delete Account from Database
