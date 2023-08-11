@@ -1,7 +1,7 @@
 # Core_Java_POC
 the basic concepts of java programming language are:
 
-- **Java Fundamentals**:
+- **Java Fundamentals**
 -  The basic syntax, keywords, data types, operators, control statements, and arrays of java language.
 -  **Loops**
 -  for loop,while loop,do while loop
