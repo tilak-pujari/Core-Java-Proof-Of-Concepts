@@ -34,7 +34,7 @@ Developed sample projects for practice of core java
 - Withdraw money from account
 - Interest calculator
 
-# Netflix Project
+** Netflix Project**
 - Create a new Account
 - Add Movies to DataBase
 - Update movie details
