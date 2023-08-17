@@ -4,9 +4,9 @@ the basic concepts of java programming language are:
 - **Java Fundamentals**
 -  The basic syntax, keywords, data types, operators, control statements, and arrays of java language.
 -  **Loops**
--  For loop
--  While loop
--  Do-While loop
+    For loop
+    While loop
+    Do-While loop
 - **OOPs Concepts**:
 -  The object-oriented programming principles such as abstraction, encapsulation, inheritance, polymorphism, and classes and objects.
 - **Overloading & Overriding**:
