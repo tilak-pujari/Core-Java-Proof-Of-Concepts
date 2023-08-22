@@ -10,8 +10,8 @@ the basic concepts of java programming language are:
 - **OOPs Concepts**:
 -  The object-oriented programming principles such as abstraction, encapsulation, inheritance, polymorphism, and classes and objects.
 - **Overloading & Overriding**:
--  The techniques of defining multiple methods with the same name but different parameters (overloading) or redefining a method of a superclass in a subclass     
-  (overriding).
+-  The techniques of defining multiple methods with the same name but different parameters (overloading) or
+      redefining a method of a superclass in a subclass (overriding).
 - **Inheritance with Interface and Abstract Class**:
 -  The mechanism of deriving new classes from existing ones (inheritance) and defining common behaviors for a group of classes using interfaces or abstract classes.
 - **Exception Handling**:
@@ -26,7 +26,6 @@ the basic concepts of java programming language are:
 
 
 # JavaMiniProjects
-
 Developed sample projects for practice of core java
 
 ** Bank Project**
